@@ -8,4 +8,5 @@ categories: [Development, Work]
 
 So I have finally made the decision to jump over into the wonderful world of frontend javascript development. Not something that's entirely foreign to me since I've been focused on this area for the past 3 years (Tasmanian Bookings, Bell Shakespeare Packages, National Art School, Sydney Theatre Company, Sydney Symphony). Just a chance to apply all the research and experiments to "real" life.
 
-Thank you [Ninja Blocks](http://www.ninjablocks.com) for the opportunity. Can't wait to get started! Especially with [NodeJS](http://www.nodejs.org)
+
+Excited to be starting with [Ninja Blocks](http://www.ninjablocks.com) in a few weeks. Can't wait to work with all things JS - especially with [NodeJS](http://www.nodejs.org)
